@@ -3,12 +3,12 @@
 </br></br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt="450px" height="450px">
+<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt="500px" height="500px">
 </div>
 
 </br></br>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=k1ngstream&theme=cobalt&show_icons=true)">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngstream&theme=cobalt&layout=compact">
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=k1ngstream&theme=cobalt&show_icons=true)">
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngstream&theme=cobalt&layout=compact">
 </br></br>
   
 ### About me:
