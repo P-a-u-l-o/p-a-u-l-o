@@ -7,8 +7,8 @@
 </div>
 
 </br></br>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=k1ngstream&theme=cobalt&show_icons=true)">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngstream&theme=cobalt&layout=compact">
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=k1ngstream&theme=cobalt&show_icons=true)">
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngstream&theme=cobalt&layout=compact">
 </br></br>
 
 
@@ -42,6 +42,7 @@
 </div>
     
 </br>
+
 <div align="center">
   
 ### Developing knowledges in: / Desenvolvendo conhecimentos em:
@@ -60,7 +61,7 @@
 
 <div align="center">
   
-  #### Social & Contacts
+  ### Social & Contacts
 
   <a href="https://www.linkedin.com/in/paulo-silva-94901812b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.ads.silva@hotmail.com"><img src="https://iconape.com/wp-content/png_logo_vector/outlook-com-logo.png" width="100" height="20" target="_blank"></a>
