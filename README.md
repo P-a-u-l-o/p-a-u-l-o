@@ -3,7 +3,7 @@
 </br></br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt=500px; height="500px;">
+<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt=500px; height="300px;">
 </div>
 
 </br></br>
