@@ -1,17 +1,15 @@
-</br>
+
 <h1 align="center">👋 Hi and welcome to my git profile 😎.</h1>
 </br></br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt=500px; height="300px;">
+<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt="450px" height="450px">
 </div>
 
 </br></br>
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=k1ngstream&theme=cobalt&show_icons=true)">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngstream&theme=cobalt&layout=compact">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=k1ngstream&theme=cobalt&show_icons=true)">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngstream&theme=cobalt&layout=compact">
 </br></br>
-
-
   
 ### About me:
 <div>
@@ -25,11 +23,9 @@
 </pre>
   </code>
 </div>
-  </br>
-  
+    
 ### Sobre mim:
-  
- <div>
+   <div>
   <code>
     <pre>
 <strong>🔭 Atualmente trabalhando em meu desenvolvimento profissional e pessoal.</strong>
@@ -70,5 +66,5 @@
   <a href="https://discord.gg/cEzjjtfJZ2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	</div>
-  </br></br></br></br></br></br></br></br></br></br>
+  </br></br></br></br>
 
