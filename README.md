@@ -5,12 +5,14 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt="500px" height="500px">
 </div>
+</br>
 
-</br></br>
+### Works status area
+<div>
 <img height="120px" src="https://github-readme-stats.vercel.app/api?username=k1ngstream&theme=cobalt&show_icons=true)">
 <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1ngstream&theme=cobalt&layout=compact">
-</br></br>
-  
+  </div>
+
 ### About me:
 <div>
   <code>
@@ -36,8 +38,7 @@
     </pre>
   </code>
 </div>
-    
-</br>
+   </br>
 
 <div align="center">
   
