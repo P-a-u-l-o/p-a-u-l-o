@@ -44,14 +44,14 @@
   
 ### Developing knowledges in: / Desenvolvendo conhecimentos em:
 
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="K1ngstream-html5"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="K1ngstream-css3" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="K1ngstream-javaScript" />
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="K1ngstream-typescript"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="K1ngstream-react"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="K1ngstream-redux"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="K1ngstream-mysql"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="K1ngstream-bootstrap"/>
+  <a href="https://www.w3schools.com/tags/tag_doctype.asp"> <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="K1ngstream-html5"/></a>
+  <a href="https://www.w3schools.com/css/default.asp"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="K1ngstream-css3" /></a>
+ <a href="https://www.w3schools.com/js/default.asp"> <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="K1ngstream-javaScript" /></a>
+  <a href="https://www.typescriptlang.org/docs/"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="K1ngstream-typescript"/></a>
+ <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="K1ngstream-react"/></a>
+ <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="K1ngstream-redux"/></a>
+ <a href="https://dev.mysql.com/doc/"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="K1ngstream-mysql"/><a/>
+ <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="K1ngstream-bootstrap"/></a>
 </div>
 
 </br>
