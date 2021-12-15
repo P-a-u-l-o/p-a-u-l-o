@@ -12,33 +12,26 @@
 <div>
 <img height="120px" src="https://github-readme-stats.vercel.app/api?username=P-a-u-l-o&theme=great-gatsby&show_icons=true)">
 <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-a-u-l-o&theme=great-gatsby&layout=compact">
-  </div>
+ </div>
 
 ### About me:
 <div>
-  <code>
+  
 <pre>
-<strong>*🔭 I’m currently working on in my professional and personaly development.</strong>
-<strong>*🌱 I’m studying fullstack development and each technologies embeded on it.</strong>
-<strong>*👯 I’m want to collaborate on every I'll could, I believe that it'll help me improve my skills in development carrer.</strong>
-<strong>*🤔 I’m trying to improve my professional network and learn with others that had more experience than me.</strong>
-<strong>*💬 Send me a message whenever you want, after all that's what we're here for, to exchange knowledge. </strong>
+<strong>🔭 I’m currently working on in my professional and personaly development.</strong>
+<strong>🌱 I’m studying fullstack development and each technologies embeded on it.</strong>
+<strong>👯 I’m want to collaborate on every I'll could, I believe that it'll help me improve my skills in development carrer.</strong>
+<strong>🤔 I’m trying to improve my professional network and learn with others that had more experience than me.</strong>
+<strong>💬 Send me a message whenever you want, after all that's what we're here for, to exchange knowledge. </strong>
 </pre>
-  </code>
-</div>
-    
-### Sobre mim:
-   <div>
-  <code>
-    <pre>
-<strong>*🔭 Atualmente trabalhando em meu desenvolvimento profissional e pessoal.</strong>
-<strong>*🌱 Estudando desenvolvimento fullstack e cada tecnologia incorporada.</strong>
-<strong>*👯 Quero colaborar em tudo o que puder acredito que isso vai me ajudar a melhorar minhas habilidades na carreira de dev.</strong>
-<strong>*🤔 Estou tentando melhorar minha rede profissional e aprender com outras pessoas que têm mais experiência do que eu.</strong>
-<strong>*💬 Me mande uma mensagem sempre que quiser, afinal é para isso que estamos aqui, para trocar conhecimentos.</strong>
+## Sobre mim:
+  <pre>
+<strong>🔭 Atualmente trabalhando em meu desenvolvimento profissional e pessoal.</strong>
+<strong>🌱 Estudando desenvolvimento fullstack e cada tecnologia incorporada.</strong>
+<strong>👯 Quero colaborar em tudo o que puder acredito que isso vai me ajudar a melhorar minhas habilidades na carreira dev.</strong>
+<strong>🤔 Estou tentando melhorar minha rede profissional e aprender com outras pessoas que têm mais experiência do que eu.</strong>
+<strong>💬 Me mande uma mensagem sempre que quiser, afinal é para isso que estamos aqui, para trocar conhecimentos.</strong>
     </pre>
-  </code>
-</div>
    </br>
 
 <div align="center">
