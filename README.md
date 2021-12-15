@@ -59,15 +59,16 @@
 
 <!--
   <a href="https://www.linkedin.com/in/paulo-silva-94901812b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulo.ads.silva@hotmail.com"><img src="https://iconape.com/wp-content/png_logo_vector/outlook-com-logo.png" width="100" height="20" target="_blank"></a>
-   <a href = "mailto:paulinhosajsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
     <a href="https://www.twitch.tv/k1ngstream" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/cEzjjtfJZ2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/K1ngStream" target="_blank"><img src="https://w7.pngwing.com/pngs/474/303/png-transparent-logo-twitter-social-networking-service-graphics-twitter-blue-text-logo.png" width="100" height="28" target="_blank"></a>
   <a href="https://www.instagram.com/__silvapaulo__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 -->
   ### Social & contacts
+ <a href = "mailto:paulo.ads.silva@hotmail.com"><img src="https://iconape.com/wp-content/png_logo_vector/outlook-com-logo.png" width="100" height="20" target="_blank"></a>
  <a href="https://linktr.ee/Silva_Paulo" target="_blank"><img src="https://img.icons8.com/color/2x/linktree.png" target="_blank" width="150"></a>
+ <a href = "mailto:paulinhosajsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  	</div>
  
   </br></br></br>
