@@ -3,7 +3,7 @@
 </br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" widt="500px" height="500px">
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" border-radius="50px" widt="500px" height="500px">
 </div>
 </br>
 
