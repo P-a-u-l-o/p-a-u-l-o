@@ -10,8 +10,8 @@
 
 ### Works status area
 <div>
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=P-a-u-l-o&theme=chartreuse-dark&show_icons=true)">
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-a-u-l-o&theme=chartreuse-dark&layout=compact">
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=P-a-u-l-o&theme=great-gatsby&show_icons=true)">
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-a-u-l-o&theme=great-gatsby&layout=compact">
   </div>
 
 ### About me:
