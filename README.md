@@ -4,15 +4,29 @@
 
 <div align="center">
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" widt="400px" height="400px"></br>
+<div>
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=P-a-u-l-o&theme=great-gatsby&show_icons=true)">
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-a-u-l-o&theme=great-gatsby&layout=compact">
+ </div><br><br>
+
+<div>
+ Desenvolvendo e aprimorando conhecimentos em:<br><br>
 <img src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif" widt="300px" height="300px">
 </div>
 </br>
 
-### Works status area
-<div>
-<img height="120px" src="https://github-readme-stats.vercel.app/api?username=P-a-u-l-o&theme=great-gatsby&show_icons=true)">
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-a-u-l-o&theme=great-gatsby&layout=compact">
- </div>
+  <a href="https://www.w3schools.com/tags/tag_doctype.asp"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="P-a-u-l-o-html5"/></a>
+  <a href="https://www.w3schools.com/css/default.asp"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="P-a-u-l-o-css3" /></a>
+ <a href="https://www.w3schools.com/js/default.asp"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="P-a-u-l-o-javaScript" /></a>
+ <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="P-a-u-l-o-react"/></a>
+ <a href="https://www.typescriptlang.org/docs/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="K1ngstream-typescript"/></a>
+<a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="P-a-u-l-o-redux"/></a>
+<a href="https://dev.mysql.com/doc/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="P-a-u-l-o-mysql"/><a/>
+ <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="P-a-u-l-o-bootstrap"/></a>
+ <a href="https://tailwindcss.com/docs"><img width="60" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="P-a-u-l-o-tailwindcss"/></a>
+</div>
+
+
 
 ### About me:
 <div>
@@ -36,25 +50,14 @@
 
 <div align="center">
   
-#### Developing knowledges in: / Desenvolvendo conhecimentos em:
-
-  <a href="https://www.w3schools.com/tags/tag_doctype.asp"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="P-a-u-l-o-html5"/></a>
-  <a href="https://www.w3schools.com/css/default.asp"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="P-a-u-l-o-css3" /></a>
- <a href="https://www.w3schools.com/js/default.asp"> <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="P-a-u-l-o-javaScript" /></a>
-   <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="P-a-u-l-o-bootstrap"/></a>
-   <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="P-a-u-l-o-react"/></a>
- <!--<a href="https://www.typescriptlang.org/docs/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="K1ngstream-typescript"/></a>-->
-<!-- <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="P-a-u-l-o-redux"/></a>-->
-<!-- <a href="https://dev.mysql.com/doc/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="P-a-u-l-o-mysql"/><a/>-->
- <!--  <a href="https://tailwindcss.com/docs"><img width="60" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="P-a-u-l-o-tailwindcss"/></a>-->
-</div>
 
 </br>
 
 <div align="center">
   
-  #### Social & Contacts
+  
 
+<!--
   <a href="https://www.linkedin.com/in/paulo-silva-94901812b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.ads.silva@hotmail.com"><img src="https://iconape.com/wp-content/png_logo_vector/outlook-com-logo.png" width="100" height="20" target="_blank"></a>
    <a href = "mailto:paulinhosajsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -62,6 +65,10 @@
   <a href="https://discord.gg/cEzjjtfJZ2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/K1ngStream" target="_blank"><img src="https://w7.pngwing.com/pngs/474/303/png-transparent-logo-twitter-social-networking-service-graphics-twitter-blue-text-logo.png" width="100" height="28" target="_blank"></a>
   <a href="https://www.instagram.com/__silvapaulo__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+-->
+  ### Social & contacts
+ <a href="https://linktr.ee/Silva_Paulo" target="_blank"><img src="https://img.icons8.com/color/2x/linktree.png" target="_blank" width="150"></a>
  	</div>
-  </br></br></br></br>
+ 
+  </br></br></br>
 
