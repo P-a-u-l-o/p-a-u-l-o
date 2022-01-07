@@ -10,7 +10,7 @@
  </div><br><br>
 
 <div>
- Desenvolvendo e aprimorando conhecimentos em:<br><br>
+ Learning and improving knolegments in:<br><br>
 <img src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif" widt="300px" height="300px">
 </div>
 </br>
