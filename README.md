@@ -24,6 +24,7 @@
 <a href="https://dev.mysql.com/doc/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="P-a-u-l-o-mysql"/><a/>
  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="P-a-u-l-o-bootstrap"/></a>
  <a href="https://tailwindcss.com/docs"><img width="60" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="P-a-u-l-o-tailwindcss"/></a>
+  <a href="https://sass-lang.com/documentation"><img width="60" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="P-a-u-l-o-bootstrap"/></a>
 </div>
 
 
