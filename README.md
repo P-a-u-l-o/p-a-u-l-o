@@ -22,6 +22,7 @@
   <a href="https://git-scm.com/doc"> <img width="40" src="https://img.icons8.com/color/2x/git.png" alt="P-a-u-l-o-Git" /></a>
   <a href="https://docs.github.com/pt"> <img width="40" src="https://img.icons8.com/fluency/2x/github.png" alt="P-a-u-l-o-Git" /></a>
  <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="P-a-u-l-o-react"/></a>
+  <a href="https://nodejs.org/en/docs/"><img width="40" src="https://img.icons8.com/color/2x/nodejs.png" alt="P-a-u-l-o-NodeJs"/></a>
  <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="P-a-u-l-o-redux"/></a>
 <a href="https://dev.mysql.com/doc/"><img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="P-a-u-l-o-mysql"/><a/>
  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="P-a-u-l-o-bootstrap"/></a>
