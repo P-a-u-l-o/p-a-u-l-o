@@ -15,20 +15,23 @@
 </div>
 </br>
 
-  <a href="https://html.spec.whatwg.org/multipage/"> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="P-a-u-l-o-html5"/></a>
-  <a href="https://www.w3.org/Style/CSS/current-work#roadmap"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="P-a-u-l-o-css3" /></a>
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference"> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="P-a-u-l-o-javaScript" /></a>
- <a href="https://www.typescriptlang.org/docs/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="K1ngstream-typescript"/></a>
-  <a href="https://git-scm.com/doc"> <img width="40" src="https://img.icons8.com/color/2x/git.png" alt="P-a-u-l-o-Git" /></a>
-  <a href="https://docs.github.com/pt"> <img width="40" src="https://img.icons8.com/fluency/2x/github.png" alt="P-a-u-l-o-Git" /></a>
- <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="P-a-u-l-o-react"/></a>
-  <a href="https://nodejs.org/en/docs/"><img width="40" src="https://img.icons8.com/color/2x/nodejs.png" alt="P-a-u-l-o-NodeJs"/></a>
- <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="P-a-u-l-o-redux"/></a>
-<a href="https://dev.mysql.com/doc/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="P-a-u-l-o-mysql"/><a/>
- <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="P-a-u-l-o-bootstrap"/></a>
-  <a href="https://tailwindcss.com/docs"> <img width="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="P-a-u-l-o-tailwindcss"/></a>
-
-  <a href="https://sass-lang.com/documentation"><img width="40" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="P-a-u-l-o-bootstrap"/></a>
+  <a href="https://html.spec.whatwg.org/multipage/"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  alt="HTML5 brand" title="HTML5 semantic"/></a>
+ <a href="https://www.w3.org/Style/CSS/current-work#roadmap"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 brand" title="CSS3"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript brand" title="JavaScript/ES6" /></a>
+<a href="https://sass-lang.com/documentation"><img width="30" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass brand" title="Sass"/></a>
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap brand" title="Bootstrap"/></a>
+ <a href="https://tailwindcss.com/docs"> <img width="30" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="TailwindCSS brand" title="TailwindCSS"/></a>
+  <a href="https://git-scm.com/doc"> <img width="30" src="https://img.icons8.com/color/2x/git.png" alt="Git brand" title="Git"/></a>
+  <a href="https://docs.github.com/pt"> <img width="30" src="https://img.icons8.com/fluency/2x/github.png" alt="GitHub brand" title="GitHub" /></a>
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS brand" title="ReactJS"/></a>
+  <a href="https://nodejs.org/en/docs/"><img width="30" src="https://img.icons8.com/color/2x/nodejs.png" alt="NodeJs brand" title="NodeJS"/></a>
+ <a href="https://www.typescriptlang.org/docs/"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript brand" title="TypeScript"/></a>
+  <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="REDUX brand" title="Redux"/></a>
+  <a href="https://docs.mongodb.com/"><img width="60" src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="MongoDB brand" title="MongoDB"/><a/>
+<a href="https://dev.mysql.com/doc/"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL brand" title="MySQL Server"/><a/>
+ 
+ 
+ 
 </div>
 
 
