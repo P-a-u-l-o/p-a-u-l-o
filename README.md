@@ -28,7 +28,7 @@
  <a href="https://www.typescriptlang.org/docs/"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript brand" title="TypeScript"/></a>
   <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="REDUX brand" title="Redux"/></a>
   <a href="https://docs.mongodb.com/"><img width="60" src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="MongoDB brand" title="MongoDB"/><a/>
-<a href="https://dev.mysql.com/doc/"><img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL brand" title="MySQL Server"/><a/>
+<a href="https://dev.mysql.com/doc/"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL brand" title="MySQL Server"/><a/>
  
  
  
